@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone Project
 + The Arcade game is such an Interesting game.
-+ I also learned Document Object Modelling (DOM) and also learned to create content in JavaScript.
++ I learned Document Object Modelling (DOM) and also learned to create content in JavaScript.
 ## Table of Contents
 
 - [Instructions](#instructions)
